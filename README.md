@@ -11,7 +11,7 @@ This is an Arduino based RC-Car, which can move around in two modes. The Bluetoo
 
 
 ## Build
-Pats used are an Arduino Uno, Sensor Shield v5.0, L298N H-Bridge Dual DC Motor Driver, 2x Li-Ion 3.7V batteries as an external power supply, HC-05 Bluetooth Module.
+Parts used are an Arduino Uno, Sensor Shield v5.0, L298N H-Bridge Dual DC Motor Driver, 2x Li-Ion 3.7V batteries as an external power supply, HC-05 Bluetooth Module.
 
 
 ## Flow
