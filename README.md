@@ -21,7 +21,7 @@ Pathfinder Mode: Rover moves forward until it detects an obstacle in close proxi
 
 Below is a link to a YouTube video demonstating the movement (make sure to open the link in a new tab):
 
-[![Bluetooth Robot Car with Arduino](images/rover_hyperlink_image.png)](https://www.youtube.com/watch?v=9ZBQKSbplVI "Bluetooth Robot Car with Arduino")
+[![Bluetooth Robot Car with Arduino](images/hyperlink_image.png)](https://www.youtube.com/watch?v=9ZBQKSbplVI "Bluetooth Robot Car with Arduino")
 
 
 ## Circuit
