@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This is an Arduino based RC-Car, which can move around in two modes. The Bluetooth control mode allows to control the rover through a HC-05 module via a smartphone and any Bluetooth controller app. In the pathfinder mode the rover moves around on its own and avoids obstacles with the help of a servo motor and an ultrasonic sensor.
+This is an Arduino based Bluetooth-Robot-Car, which can move around in two modes. The Bluetooth control mode allows to control the rover through a HC-05 module via a smartphone and any Bluetooth controller app. In the pathfinder mode the rover moves around on its own and avoids obstacles with the help of a servo motor and an ultrasonic sensor.
 
 
 ## Code and Recources
@@ -11,7 +11,7 @@ This is an Arduino based RC-Car, which can move around in two modes. The Bluetoo
 
 
 ## Build
-Parts used are an Arduino Uno, Sensor Shield v5.0, L298N H-Bridge Dual DC Motor Driver, 2x Li-Ion 3.7V batteries as an external power supply, HC-05 Bluetooth Module.
+Parts used are an Arduino Uno, Sensor Shield v5.0, L298N H-Bridge Dual DC Motor Driver, 2x Li-Ion 3.7V batteries as an external power supply, HC-05 Bluetooth Module, HC-SR05 Ultrasonic Sensor, SG90 Micro Servo.
 
 
 ## Flow
@@ -20,6 +20,8 @@ Bluetooth Mode: Control the rover through the HC-05 module via an app on the sma
 Pathfinder Mode: Rover moves forward until it detects an obstacle in close proximity. It then backs up, scans its environment and finally moves in the direction with the least amount of obstruction.
 
 Below is a link to a YouTube video demonstating the movement (make sure to open the link in a new tab):
+
+[![Bluetooth Robot Car with Arduino](images/rover_hyperlink_image.png)](https://www.youtube.com/watch?v=9ZBQKSbplVI "Bluetooth Robot Car with Arduino")
 
 
 ## Circuit
